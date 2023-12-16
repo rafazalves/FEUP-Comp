@@ -1,0 +1,1 @@
+class Foo {int a; int[] b; int c; boolean d; Bar e;}
